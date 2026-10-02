@@ -1,4 +1,3 @@
-# Coffee-Shop-Sales
 # Coffee Shop Sales Analysis (Power BI)
 
 **Author:** Doan Duy Minh Nguyen
