@@ -19,10 +19,7 @@ A coffee shop wants to grow revenue and run more efficiently. The owner needs to
 
 ## Dataset
 
-- **Source:** [add source, e.g., Kaggle or course dataset]
-- **Time period:** January to June [add year]
-- **Records:** [number of rows]
-- **Key fields:** [e.g., date, time, product category, product, quantity, revenue, store location]
+- Professor's Data
 
 ## Report Pages
 
