@@ -29,12 +29,6 @@ A coffee shop wants to grow revenue and run more efficiently. The owner needs to
 4. **Forecasting:** a projection of future sales based on the trend
 5. **Best Selling Product by Month:** a decomposition tree to explore what drives revenue
 
-![Monthly Trend](images/monthly-trend.png)
-![Hour Analysis](images/hour-analysis.png)
-![Product Analysis](images/product-analysis.png)
-![Forecasting](images/forecasting.png)
-![Decomposition Tree](images/decomposition-tree.png)
-
 ## Key Findings
 
 - Sales rise steadily from January to June, and revenue climbs sharply after February.
